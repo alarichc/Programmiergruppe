@@ -1,1 +1,2 @@
-Test50000
+Schau dir das Programm für den Wettbewerb mal an.
+Bekommst du raus wie man die Koordinaten von den Monstern/Magier/Drachen bekommt? Ich finde das nicht :/
